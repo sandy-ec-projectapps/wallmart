@@ -1,2 +1,3 @@
 Hello Guys
-all git commands are very important
+All git commands are very important 
+SO Remember everything and practice
